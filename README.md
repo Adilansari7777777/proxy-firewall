@@ -25,6 +25,8 @@ proxy_config.json # Proxy configuration
 proxy_firewall.py # Main Python script
 
 ## Example: Blocked Site
-When you try to visit a blocked domain, the proxy firewall returns an error.
 
-![Blocked Facebook](screenshots/blocked_facebook.png)
+When you try to visit a blocked domain, the proxy firewall prevents access and returns an error page.
+
+### Blocked Facebook
+![Blocked Facebook]
