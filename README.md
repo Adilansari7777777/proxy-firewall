@@ -29,4 +29,4 @@ proxy_firewall.py # Main Python script
 When you try to visit a blocked domain, the proxy firewall prevents access and returns an error page.
 
 ### Blocked Facebook
-![Blocked Facebook]
+![Blocked Facebook] (screenshots/blocked_facebook.png)
