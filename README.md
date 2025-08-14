@@ -10,3 +10,10 @@ Blocks specific domains from being accessed and logs all traffic.
 - Logs all requests and blocks
 
 ## Project Structure
+.gitignore # Git ignore rules
+LICENSE # MIT License
+README.md # Documentation
+blocked_domains.txt # List of blocked domains
+proxy.log # Runtime log file
+proxy_config.json # Proxy configuration
+proxy_firewall.py # Main Python script
