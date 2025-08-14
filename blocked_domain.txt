@@ -1,0 +1,42 @@
+#######################################
+# Proxy Firewall - Blocked Domains
+# Last Updated: 2025-08-14
+# Description: List of domains blocked by the proxy firewall.
+# Format: One domain per line, no "http://" or "https://".
+# Comments start with '#'
+#######################################
+
+# ======= Social Media =======
+facebook.com
+instagram.com
+tiktok.com
+twitter.com
+snapchat.com
+pinterest.com
+threads.net
+linkedin.com
+
+# ======= Streaming & Entertainment =======
+youtube.com
+netflix.com
+primevideo.com
+hulu.com
+disneyplus.com
+hotstar.com
+spotify.com
+
+# ======= Gaming Sites =======
+epicgames.com
+steampowered.com
+roblox.com
+minecraft.net
+
+# ======= Known Malicious / Phishing =======
+example-phishing-site.com
+fake-login-page.net
+scam-site.org
+
+# ======= Ads & Trackers =======
+doubleclick.net
+adservice.google.com
+track.example.com
