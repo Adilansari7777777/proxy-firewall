@@ -1,4 +1,0 @@
-## Example: Blocked Site
-When you try to visit a blocked domain, the proxy firewall returns an error.
-
-![Blocked Facebook](screenshots/blocked_facebook.png)
